@@ -1,5 +1,5 @@
 
-# RESTful API using Node.js and Client Application
+# RESTful API & Client Application
 
 ## Contents
 - A RESTful API which has to endpoints to convert strings to capital letters and small letters
@@ -7,19 +7,17 @@
 
 ## How to Run
 
-#### Get the Project
+Get the Project
 ```zsh
 git clone https://github.com/zidansprofile/WebTech-Assignment-1.git
 ```
-
-#### Run Web Server
+Run Web Server
 ```zsh
 cd WebTechnology-Assignment1/server/RESTful API
 npm install
 npm start
 ```
-
-#### Run Web Client
+Run Web Client
 - Now open index.html from *WebTechnology-Assignment1/client/public* in a browser
 
 ## Screenshot
