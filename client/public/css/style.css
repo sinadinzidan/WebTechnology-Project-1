@@ -1,0 +1,19 @@
+
+.custome-2 {
+  margin-top: 20px;
+}
+
+abbr {
+  text-decoration: none;
+}
+
+.custome-1{
+padding-left: 200px;
+padding-right: 200px;
+}
+
+.button .is-dangers{
+  background-color: #grey;
+border-color: transparent;
+color: #fff;
+}
