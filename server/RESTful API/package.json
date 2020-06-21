@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shaheemMPM/WebTechnology-Assignment1.git"
+    "url": "git+https://github.com/zidansprofile/WebTechnology-Project-1.git"
   },
   "keywords": [
     "RESTful",
@@ -18,12 +18,12 @@
     "Express",
     "XML"
   ],
-  "author": "Mohammed Shaheem P",
+  "author": "Sinadin Zidan K",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shaheemMPM/WebTechnology-Assignment1/issues"
+    "url": "https://github.com/zidansprofile/WebTechnology-Project-1/issues"
   },
-  "homepage": "https://github.com/shaheemMPM/WebTechnology-Assignment1#readme",
+  "homepage": "https://github.com/zidansprofile/WebTechnology-Project-1#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
